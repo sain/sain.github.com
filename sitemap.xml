@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://git@github.com:sain.github.com/blog/2012/03/23/post-title/</loc>
+        <lastmod>2012-03-23T18:28:16+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://git@github.com:sain.github.com/blog/2012/03/23/hello-world/</loc>
+        <lastmod>2012-03-23T19:15:50+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://git@github.com:sain.github.com/blog/archives/</loc>
+        <lastmod>2012-03-23T19:15:50+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://git@github.com:sain.github.com/</loc>
+        <lastmod>2012-03-23T19:15:50+08:00</lastmod>
+    </url>
+</urlset>
