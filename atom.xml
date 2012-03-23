@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Hello Rails!]]></title>
-  <link href="http://git@github.com:sain.github.com/atom.xml" rel="self"/>
-  <link href="http://git@github.com:sain.github.com/"/>
-  <updated>2012-03-23T19:16:08+08:00</updated>
-  <id>http://git@github.com:sain.github.com/</id>
+  <link href="http://sain.github.com/atom.xml" rel="self"/>
+  <link href="http://sain.github.com/"/>
+  <updated>2012-03-23T19:25:30+08:00</updated>
+  <id>http://sain.github.com/</id>
   <author>
     <name><![CDATA[佐为夜神月]]></name>
     
@@ -14,19 +14,37 @@
 
   
   <entry>
+    <title type="html"><![CDATA[XXX]]></title>
+    <link href="http://sain.github.com/blog/2012/03/23/xxx/"/>
+    <updated>2012-03-23T19:22:00+08:00</updated>
+    <id>http://sain.github.com/blog/2012/03/23/xxx</id>
+    <content type="html"><![CDATA[<h1>I&#8217;m XXX</h1>
+
+<h2>i think i can change the world</h2>
+
+<ul>
+<li>to do first</li>
+<li>to do second</li>
+<li>to do third</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[hello world]]></title>
-    <link href="http://git@github.com:sain.github.com/blog/2012/03/23/hello-world/"/>
+    <link href="http://sain.github.com/blog/2012/03/23/hello-world/"/>
     <updated>2012-03-23T19:15:00+08:00</updated>
-    <id>http://git@github.com:sain.github.com/blog/2012/03/23/hello-world</id>
+    <id>http://sain.github.com/blog/2012/03/23/hello-world</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[post title]]></title>
-    <link href="http://git@github.com:sain.github.com/blog/2012/03/23/post-title/"/>
+    <link href="http://sain.github.com/blog/2012/03/23/post-title/"/>
     <updated>2012-03-23T18:28:00+08:00</updated>
-    <id>http://git@github.com:sain.github.com/blog/2012/03/23/post-title</id>
+    <id>http://sain.github.com/blog/2012/03/23/post-title</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
