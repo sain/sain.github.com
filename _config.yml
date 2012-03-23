@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://git@github.com:sain.github.com
-title: Hello world!
-subtitle: A blogging framework for hackers.
+url: http://sain.github.com
+title: Hello Rails!
+subtitle: You still have much to do!
 author: 佐为夜神月
 simple_search: http://google.com/search
 description:
@@ -96,4 +96,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
