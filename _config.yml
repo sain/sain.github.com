@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://sain.github.com
-title: My Octopress Blog
+url: http://git@github.com:sain.github.com
+title: Hello world!
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: 佐为夜神月
 simple_search: http://google.com/search
 description:
 
