@@ -1,0 +1,17 @@
+---
+layout: post
+title: "XXX"
+date: 2012-03-23 19:22
+comments: true
+categories: 
+---
+
+I'm XXX
+=======
+
+i think i can change the world
+------------------------------
+
+* to do first
+* to do second
+* to do third
