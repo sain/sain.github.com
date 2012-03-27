@@ -12,6 +12,14 @@ categories:
 第二章
 -------------
 
->多态的特点
->多态的特点2
->多态的特点3
+多态的特点
+
+多态的特点2
+
+多态的特点3
+
+	function validateForm()
+	{
+	    document.getElementById("submit").disabled=true; 
+	    document.getElementById("result").innerHTML = "系统正在处理，请稍候"
+	}
