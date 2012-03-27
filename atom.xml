@@ -4,7 +4,7 @@
   <title><![CDATA[Hello Rails!]]></title>
   <link href="http://sain.github.com/atom.xml" rel="self"/>
   <link href="http://sain.github.com/"/>
-  <updated>2012-03-27T16:50:13+08:00</updated>
+  <updated>2012-03-27T17:11:29+08:00</updated>
   <id>http://sain.github.com/</id>
   <author>
     <name><![CDATA[佐为夜神月]]></name>
@@ -22,9 +22,9 @@
 
 <h2>第二章</h2>
 
-<p>多态的特点
+<blockquote><p>多态的特点
 多态的特点2
-多态的特点3</p>
+多态的特点3</p></blockquote>
 ]]></content>
   </entry>
   
