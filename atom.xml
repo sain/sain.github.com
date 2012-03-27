@@ -4,7 +4,7 @@
   <title><![CDATA[Hello Rails!]]></title>
   <link href="http://sain.github.com/atom.xml" rel="self"/>
   <link href="http://sain.github.com/"/>
-  <updated>2012-03-23T19:25:30+08:00</updated>
+  <updated>2012-03-27T16:50:13+08:00</updated>
   <id>http://sain.github.com/</id>
   <author>
     <name><![CDATA[佐为夜神月]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[松本行弘的程序世界读后感（1）]]></title>
+    <link href="http://sain.github.com/blog/2012/03/27/song-ben-xing-hong-de-cheng-xu-shi-jie-du-hou-gan-%281%29/"/>
+    <updated>2012-03-27T16:35:00+08:00</updated>
+    <id>http://sain.github.com/blog/2012/03/27/song-ben-xing-hong-de-cheng-xu-shi-jie-du-hou-gan-(1)</id>
+    <content type="html"><![CDATA[<h1>松本行弘的程序世界</h1>
+
+<h2>第二章</h2>
+
+<p>多态的特点
+多态的特点2
+多态的特点3</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[XXX]]></title>
